@@ -33,6 +33,7 @@ p{
 }
 .button2{
   margin-bottom: 20px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
